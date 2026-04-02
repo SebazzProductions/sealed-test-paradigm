@@ -50,7 +50,7 @@ with zero manual intervention.
 Full paper with formal proofs and empirical results is on Zenodo (peer review pending).
 The reference implementation is MIT-licensed Python, ~120 lines.
 
-GitHub: github.com/[username]/sealed-test-paradigm
+GitHub: github.com/sebazzproductions/sealed-test-paradigm
 Paper:  https://doi.org/10.5281/zenodo.19378044
 
 Happy to answer questions about the formal invariants, the broader framework,
